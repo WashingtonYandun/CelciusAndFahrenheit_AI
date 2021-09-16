@@ -17,16 +17,17 @@ model.compile(
     loss='mean_squared_error' #'better few big errors' 
 )
 
-#review the training
-plt.xlabel("Cicle")
-plt.ylabel("Loss Mag")
-plt.plot(trainingHistorial.history["loss"])
-
 #see the training
 print("Training...")
 trainingHistorial = model.fit(celsius, fahrenheit, epochs = 400, verbose=True) #Verbose is not necesary could be false 
 print("Already Trained C:!")
 
+#review the training
+plt.xlabel("Cicle")
+plt.ylabel("Loss Mag")
+plt.plot(trainingHistorial.history["loss"])
+
+#result
 print("IA predict!")
 result = model.predict([10.0]) #try it
 print("Result... " + str(result) + " fahrenheit!")
