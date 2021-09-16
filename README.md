@@ -1,2 +1,2 @@
 # CelciusAndFahrenheit_IA
-This is my first time using and understanding IA 
+This is my first time using and understanding IA using Python
