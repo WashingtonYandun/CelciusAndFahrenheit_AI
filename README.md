@@ -2,7 +2,7 @@
 This is my first time using and understanding IA using Python
 
 # 1-1 Neurons
-This problem es very simple so its not necesary hidden layers but.... i will experiment a little 
+This problem is very simple so its not necesary hidden layers but.... i will experiment a little 
 
 # Traditional Programming
 
