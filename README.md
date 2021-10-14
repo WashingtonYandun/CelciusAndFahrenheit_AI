@@ -1,8 +1,9 @@
 # CelciusAndFahrenheit_IA
 This is my first time using and understanding IA using Python
+It is no necesary to use for solve this problem using just classic programming this would be solved but thats why i chose this problem. SIMPLICITY
 
 ## 1-1 Neurons
-This problem is very simple so its not necesary hidden layers but.... i will experiment a little 
+This problem is very simple so we dont need hidden layers but... i will experiment a little bit with this.
 
 ## Traditional Programming
 
