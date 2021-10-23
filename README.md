@@ -1,5 +1,5 @@
-# CelciusAndFahrenheit_IA
-This is my first time using and understanding IA using Python
+# CelciusAndFahrenheit_AI
+This is my first time using and understanding AI using Python
 It is no necesary to use for solve this problem using just classic programming this would be solved but thats why i chose this problem. SIMPLICITY
 
 ## 1-1 Neurons
