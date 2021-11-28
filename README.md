@@ -19,4 +19,4 @@ This is a extremely easy formula to code that is why i chose it to start with AI
 
 ![](img/sample.png)
 
-A screen shot of the hidden layers IA 
+A screen shot of the hidden layers IA, lost magnitude pic. 
